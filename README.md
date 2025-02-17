@@ -1,5 +1,4 @@
-# PortfolioGitHub1
-# Hi there, I'm Nicole Lub! 👋
+# Hi there, I'm Nicole Lubaczewska! 👋
 
 Welcome to my GitHub profile! I'm excited to share my journey in software development with you.
 
