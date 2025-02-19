@@ -36,16 +36,42 @@ Welcome to my GitHub profile! I'm excited to share my journey in software develo
 
 ## Projects
 
-### [Project Name](https://github.com/nicolelub/project-name)
-Description of the project goes here. Highlight key features and technologies used.
+### Jump Over Blocks Game 🏃‍♂️💨
+A simple browser game where a player jumps over obstacles to avoid collisions. Inspired by the Chrome Dino game!
 
-### [Another Project](https://github.com/nicolelub/another-project)
-Description of this project goes here. Highlight key features and technologies used.
+Features
+✅ Player-controlled jumping (Space or Arrow Up)
+✅ Dynamic obstacles that move toward the player
+✅ Score tracking system
+✅ Timer to track survival time
+✅ Restart feature (press Enter to restart)
+
+Tech Stack
+HTML: Structure of the game
+CSS: Basic styling
+JavaScript (Canvas API): Game logic and rendering
+
+How to Play:
+Press Space or Arrow Up to jump over obstacles.
+Survive as long as possible without hitting obstacles.
+Press Enter to restart after a game over.
+How to Run Locally
+
+Clone the repository:
+git clone https://github.com/your-username/jump-game.git
+cd jump-game
+
+Open index.html in your browser.
+Play and have fun! 🎮
+
+Future Improvements
+🚀 Add sound effects
+🔥 Increase difficulty over time
+🏆 Implement a leaderboard
 
 ## Get In Touch
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nicolelub) or follow me on [Twitter](https://twitter.com/nicolelub).
-
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lubaczewskanicole/).
 Let's build something amazing together!
 
 ---
