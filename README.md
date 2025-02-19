@@ -19,6 +19,8 @@ Welcome to my GitHub profile! I'm excited to share my journey in software develo
 - JavaScript
 - Python
 - HTML & CSS
+- SQL
+- Swift
 
 ### Frameworks & Libraries
 
