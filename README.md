@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm excited to share my journey in software develo
 
 - 🌱 I’m currently learning and expanding my skills in software development, focusing on full-stack development.
 - 👨‍💻 I’m passionate about coding, problem-solving, and continuous improvement.
-- 💬 Ask me about anything related to JavaScript, Python, and cloud technologies.
+- 💬 Ask me about anything related to the use of AI for coding.
 
 ## GitHub Stats
 
